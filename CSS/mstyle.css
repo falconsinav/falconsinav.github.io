@@ -1,0 +1,32 @@
+html{
+    background: url("https://zakagioboi.ru/assets/images/products/space/SPACE-76894183.jpg") repeat-x;
+
+}
+.big span{
+    display: inline-block;
+    margin: 15px;
+    padding: 20px 30px ;
+    cursor: pointer;
+    color: white;
+    transition: .9s ease;
+}
+.big { text-align: center}
+.big span{
+    background:#585858;
+    position: relative ;
+    top: 150px;
+    left: 0;}
+.big span:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+a:link {
+    color: white;
+}
+a:active {
+    color: azure;
+}
+a:visited {
+    color: aliceblue;
+}
