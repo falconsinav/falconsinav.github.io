@@ -1,5 +1,5 @@
 html{
-    background: url("https://zakagioboi.ru/assets/images/products/space/SPACE-76894183.jpg") repeat-x ,repeat-y;
+    background:linear-gradient(gray, white) no-repeat  ;
 
 }
 .big span{
@@ -29,4 +29,7 @@ a:active {
 }
 a:visited {
     color: aliceblue;
+}
+.center {
+    text-align: center;
 }
